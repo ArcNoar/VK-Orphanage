@@ -23,8 +23,9 @@ longpoll = VkLongPoll(vk_session)
 # Переменные
 Current_unit = 'Ной'
 Admin_id = int(258124709)  # Айдишник Создателя.
-# Фукнциональный класс
 
+
+# Фукнциональный класс
 
 class communicate:
     def reciever(self):  # TODO Будет использоваться для отправки сообщений в приложении
